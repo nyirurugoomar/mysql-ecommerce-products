@@ -1,5 +1,9 @@
 com/crudpractice/springbootpractice_crud/service/ProductService.class
+com/crudpractice/springbootpractice_crud/service/OrderService.class
 com/crudpractice/springbootpractice_crud/repository/ProductRepository.class
+com/crudpractice/springbootpractice_crud/repository/OrderRepository.class
+com/crudpractice/springbootpractice_crud/model/Product.class
+com/crudpractice/springbootpractice_crud/model/Order.class
+com/crudpractice/springbootpractice_crud/controller/OrderController.class
 com/crudpractice/springbootpractice_crud/SpringbootpracticeCrudApplication.class
 com/crudpractice/springbootpractice_crud/controller/ProductController.class
-com/crudpractice/springbootpractice_crud/model/Product.class
